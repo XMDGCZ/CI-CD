@@ -27,7 +27,7 @@
 # Gradle
 .idea/**/gradle.xml
 .idea/**/libraries
-
+_site
 # CMake
 cmake-build-*/
 
